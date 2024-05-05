@@ -10,6 +10,6 @@ Config(
         lr: 0.005,
     ),
     track: true,
-    wandb_project_name: "TensorRTS_PA4",
-    wandb_entity: "gbalaji27"
+    wandb_project_name: "TensorRTS_ENN",
+    wandb_entity: "lasyamutukula"
 )
