@@ -11,5 +11,5 @@ Config(
     ),
     track: true,
     wandb_project_name: "TensorRTS_ENN",
-    wandb_entity: "lasyamutukula"
+    wandb_entity: "gblaji27"
 )
